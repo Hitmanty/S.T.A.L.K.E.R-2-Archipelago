@@ -1,6 +1,7 @@
 Step 1: Download the latest UE4SS expiremental release from https://github.com/UE4SS-RE/RE-UE4SS/releases/tag/experimental-latest
 Step 2: Download the UE4SS S.T.A.L.K.E.R 2 compatability from https://www.nexusmods.com/stalker2heartofchornobyl/mods/2341
-Step 3: Go into UE4SS settings and change/add them to this:
+step 3: in the comments of the compatability should be the fix for 2.0.5
+Step 4: Go into UE4SS settings and change/add them to this:
 bUseUObjectArrayCache = false
 DefaultFNameToStringMethod = Conv_NameToString
 
@@ -14,10 +15,10 @@ HookEngineTick = 0
 HookLoadMap = 0
 HookGameViewportClientTick = 0
 
-Step 4: Add the AP bridge into the Mods folder under UE4SS
-Step 5: in Mods.txt add a line: STALKER2_AP_Bridge : 1
-Step 5: in client folder run BUILT_BAT
-Step 6: Configure AP world 
-Step 7: Open S.T.A.L.K.E.R 2
-Step 8: Open the client and connect
-Step 9: start a new game
+Step 5: Add the AP bridge into the Mods folder under UE4SS
+Step 6: in Mods.txt add a line: STALKER2_AP_Bridge : 1
+Step 7: in client folder run BUILT_BAT
+Step 8: Configure AP world 
+Step 9: Open S.T.A.L.K.E.R 2
+Step 10: Open the client and connect
+Step 11: start a new game
