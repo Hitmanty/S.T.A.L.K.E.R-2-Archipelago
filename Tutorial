@@ -15,8 +15,9 @@ HookLoadMap = 0
 HookGameViewportClientTick = 0
 
 Step 4: Add the AP bridge into the Mods folder under UE4SS
+Step 5: in Mods.txt add a line: STALKER2_AP_Bridge : 1
 Step 5: in client folder run BUILT_BAT
 Step 6: Configure AP world 
 Step 7: Open S.T.A.L.K.E.R 2
 Step 8: Open the client and connect
-Step 9: Only play a new game
+Step 9: start a new game
